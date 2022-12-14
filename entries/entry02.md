@@ -1,7 +1,11 @@
 # Entry 2: Tinkering with Kaboom 
 ##### 12/12/2022 
 ### Context 
-For the past month, I have been tinkering with [Kaboom](https://kaboomjs.com/) using the documentations and youtube tutorials. First off, I explore the plyaground, 
+For the past month, I have been tinkering with [Kaboom](https://kaboomjs.com/) using the documentations and [youtube tutorials](https://youtu.be/2nucjefSr6I). I tinker with Kaboom in two ways. The first way is done during class where my partner and I will explore the components Kaboom Js provide us. The second way is done at home where I will follow and code along with the tutorial I found. 
+
+#### First method of tinkering 
+
+#### Second method of tinkering
 
 [Previous](entry01.md) | [Next](entry03.md)
 
