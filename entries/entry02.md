@@ -78,7 +78,7 @@ addLevel = [
 }
 ```
 * `addLevel` constructs a level based on symbols. It is basically the map of each level.
-*`'symbol': [sprite('spritename')]` is the base structure that assigns a particular sprite aka character to a symbol such as `! # $ % ^ & *` . You can assign more functionality to the sprite as you increase the complexity of your game but the code basically acknowledges the fact that anytime the symbol appears it will perform the duties inside the brackets.
+* `'symbol': [sprite('spritename')]` is the base structure that assigns a particular sprite aka character to a symbol such as `! # $ % ^ & *` . You can assign more functionality to the sprite as you increase the complexity of your game but the code basically acknowledges the fact that anytime the symbol appears it will perform the duties inside the brackets.
 #### 11/28/22
 ```js
 player.onCollide("coin", (coin) => {
