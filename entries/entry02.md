@@ -97,8 +97,9 @@ loadSprite('evil-shroom', 'KPO3fR9.png')
 * `loadSprite` loads a sprite into asset manager, with name and resource url and optional config.
 * Basically the first line of code tells the computer the website the images are combing from and the remaining lines of code set the name of the image and declare the id of the image.
 #### [Link to what I have made so far](https://replit.com/@lingyingy9447/mario-kaboomjs#game.js)
-#### Plan for winter break
-I'm planning to finish my youtube tutorial during winter break and try to add more complexity to the game by adding more levels to it. Additionally, if I have more time, I will look for more youtube tutorials to enhance my understanding of Kaboom Js.
+
+#### Goal for winter break
+My goal for winter break is to finish the youtube tutorial and try to add more complexity to the game by adding more levels to it. Additionally, if I have more time, I will look for more youtube tutorials to enhance my understanding of Kaboom Js.
 
 ### Engineering Design Process and Skills
 I'm currently  on **creating a prototype** of the engineering design process (EDP). Throughout this process, I tinker with Kaboom while making my own platformer game with the help of the tutorial listed above. The next stage of EDP process for me will still be **creating a prototype** because during the next few weeks I will still be tinkering kaboom and strengthening my understanding of it by creating mini platformer games. The skills I have developed are **how to learn** and **communication**. I need learn Kaboom by myself through documentations and tutorials, so I need to develop the skill in how to learn to make my learning process more efficently. I need to know what is the best way I learn new things.  
