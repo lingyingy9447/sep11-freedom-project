@@ -101,9 +101,7 @@ loadSprite('evil-shroom', 'KPO3fR9.png')
 I'm planning to finish my youtube tutorial during winter break and try to add more complexity to the game by adding more levels to it. Additionally, if I have more time, I will look for more youtube tutorials to enhance my understanding of Kaboom Js.
 
 ### Engineering Design Process and Skills
-I'm currently  on **creating a prototype** of the engineering design process (EDP). Throughout this process, I tinker with Kaboom while making my own platformer game with the help of the tutorial listed above. The next stage of EDP process for me will still be **creating a prototype** because during the next few weeks I will still be tinkering kaboom and strengthening my understanding of it by creating mini platformer games. The skills I have developed are **how to learn** and **communication**.
-
- 
+I'm currently  on **creating a prototype** of the engineering design process (EDP). Throughout this process, I tinker with Kaboom while making my own platformer game with the help of the tutorial listed above. The next stage of EDP process for me will still be **creating a prototype** because during the next few weeks I will still be tinkering kaboom and strengthening my understanding of it by creating mini platformer games. The skills I have developed are **how to learn** and **communication**. I need learn Kaboom by myself through documentations and tutorials, so I need to develop the skill in how to learn to make my learning process more efficently. I need to know what is the best way I learn new things.  
  
  
 [Previous](entry01.md) | [Next](entry03.md)
