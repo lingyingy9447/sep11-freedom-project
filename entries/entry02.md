@@ -28,7 +28,7 @@ onKeyDown("down", () => {
    player.move(0, SPEED)
 })
 ```
-* everything is the same as the explanation above except the sign of the speed.
+* Everything is the same as the explanation above except the sign of the speed.
 * Up = negative speed and down = positive speed. It was still confusing for me because normally going up is positive and down is negative.
 ```js
 onKeyPress("space", () => {
@@ -85,7 +85,7 @@ player.onCollide("coin", (coin) => {
    destroy(coin)
    })
 ```
-* destroy(name) will make the coin disappear (or any thing associated with the name coin will disappear)
+* `destroy(name)` will make the coin disappear (or any thing associated with the name coin will disappear)
 * `.onCollide` enters an event that runs when 2 game objects with certain tags collide. The code above is an example of the user or player object collides with the coin object
 #### 12/4/22
 ```js
