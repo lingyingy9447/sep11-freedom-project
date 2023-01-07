@@ -17,7 +17,7 @@ onKeyDown("right", () => {
 * `onKeyDown` registers an event that runs every frame when a key is held down. They are use for movement that deals with the x-axis (left and right)
 * Speed (it could be other names you want as long as you declare the variable with a certain speed) is how fast it is moving, you can assign the speed by creating the variable or just replace it with a number like `player.move(120,0)`. 0 is the y axis because you are moving along the x-axis and not the y-axis when you want to move the user move left and right.
 * left = negative speed and right = positive
-### 11/7/22
+#### 11/7/22
 ```js
 var SPEED = 120
 onKeyDown("up", () => {
