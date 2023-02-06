@@ -87,7 +87,7 @@ player.onCollide("coin", (coin) => {
 ```
 * `destroy(name)` will make the coin disappear (or any thing associated with the name coin will disappear)
 * `.onCollide` enters an event that runs when 2 game objects with certain tags collide. The code above is an example of the user or player object collides with the coin object
-#### 12/4/22
+#### 12/5/22
 ```js
 loadRoot ('https://i.imgur.com/')
 loadSprite('coin', 'wbKxhcd.png')
