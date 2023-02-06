@@ -1,7 +1,13 @@
 # Entry 3 Tinkering with Kaboom 
-##### 1/6/23
+##### 2/6/23
+### Content 
 
-Text
+#### 1/9/23
+#### 1/16/23
+#### 1/23/23
+#### 1/2/23
+#### 
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
