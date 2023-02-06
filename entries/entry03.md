@@ -1,5 +1,5 @@
-# Entry 3
-##### X/X/XX
+# Entry 3 Tinkering with Kaboom 
+##### 1/6/23
 
 Text
 
