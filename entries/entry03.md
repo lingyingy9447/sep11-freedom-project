@@ -8,6 +8,8 @@ For the past few weeks, I have been tinkering with [Kaboom](https://kaboomjs.com
 <img width="559" alt="Screenshot_20230207_064753" src="https://user-images.githubusercontent.com/91750525/217393074-57eb0292-f46b-49cd-8e66-8169399a3247.png">
 
 * `camPos(player.pos)` is use so that the camera will follow the player 
+* `go()` goes to a scene and ignoring/passing other scenes. 
+
 
 #### 1/23/23
 #### 1/30/23
