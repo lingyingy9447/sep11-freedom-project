@@ -27,9 +27,13 @@ For the past few weeks, I have been tinkering with [Kaboom](https://kaboomjs.com
 * The first one was (0,1) because the coin need to be above the unboxed sprite. (0,1) gives the coin a position of y that is one increment higher than the surprise sprite 
 * Second one is (0,0) because unboxed sprite replaced surprise sprite in the same position
 
-
 #### 2/2/23
+<img width="307" alt="Screenshot_20230208_095954" src="https://user-images.githubusercontent.com/91750525/217706919-fd7a5cd1-35af-4cb3-9453-29b06abcfdcb.png">
 
+<img width="480" alt="Screenshot_20230208_100048" src="https://user-images.githubusercontent.com/91750525/217706929-64563210-1823-4d8f-a81c-c773ab7865e7.png">
+
+* scene () - define a scene 
+* Example above will go to the scene lost and display the score in the position stated if the player did not destroy the enemy by jumping 
 
 
 [Previous](entry02.md) | [Next](entry04.md)
