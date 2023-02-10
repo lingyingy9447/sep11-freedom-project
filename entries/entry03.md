@@ -35,6 +35,8 @@ For the past few weeks, I have been tinkering with [Kaboom](https://kaboomjs.com
 * scene () - define a scene 
 * Example above will go to the scene lost and display the score in the position stated if the player did not destroy the enemy by jumping 
 
+#### What I plan on learning next about my tool 
+I personally think that I learn basically everything needed to create platformer games. Therefore, my next step would be creating a mini platformer game that will use the concepts I learned from the past few months of tinkering with Kaboom. 
 
 [Previous](entry02.md) | [Next](entry04.md)
 
