@@ -38,6 +38,8 @@ For the past few weeks, I have been tinkering with [Kaboom](https://kaboomjs.com
 #### What I plan on learning next about my tool 
 I personally think that I learn basically everything needed to create a platformer game for my freedom project. Therefore, my next step would be creating a mini platformer game that will use the concepts I learned from the past few months of tinkering with Kaboom. I also plan on learning about `loadSound` which can be used to incorprate game sounds into the game
 
+### Engineering Design Process 
+I'm currently on creating a prototype of the engineering design process (EDP). Throughout this process, I tinker with Kaboom while making a platformer game with the help of the tutorial and documentation. The next stage of EDP process for me will still be creating a prototype because during the next few weeks I will still be tinkering kaboom and strengthening my understanding of it by creating my own mini platformer game. 
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
