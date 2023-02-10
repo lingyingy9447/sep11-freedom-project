@@ -36,7 +36,7 @@ For the past few weeks, I have been tinkering with [Kaboom](https://kaboomjs.com
 * Example above will go to the scene lost and display the score in the position stated if the player did not destroy the enemy by jumping 
 
 #### What I plan on learning next about my tool 
-I personally think that I learn basically everything needed to create a platformer game for my freedom project. Therefore, my next step would be creating a mini platformer game that will use the concepts I learned from the past few months of tinkering with Kaboom. 
+I personally think that I learn basically everything needed to create a platformer game for my freedom project. Therefore, my next step would be creating a mini platformer game that will use the concepts I learned from the past few months of tinkering with Kaboom. I also plan on learning about `loadSound` which can be used to incorprate game sounds into the game
 
 [Previous](entry02.md) | [Next](entry04.md)
 
