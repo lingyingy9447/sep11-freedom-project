@@ -3,7 +3,7 @@
 ### Content 
 For the past few weeks, I have been tinkering with [Kaboom](https://kaboomjs.com/) using the documentation that was provided. I finished the [youtube tutorials](https://youtu.be/2nucjefSr6I) during the winter break as one of my goals. Additionally, I started to add more levels to the Mario game that I was working on and learned more game objects, assets, components, and events. 
 #### 1/9/23
-* Spend my time on building the third level on [replit](https://replit.com/@lingyingy9447/mario-kaboomjs#game.js) 
+* Spend my time on building the third level of the Mario game on [replit](https://replit.com/@lingyingy9447/mario-kaboomjs#game.js) 
 #### 1/16/23
 <img width="559" alt="Screenshot_20230207_064753" src="https://user-images.githubusercontent.com/91750525/217393074-57eb0292-f46b-49cd-8e66-8169399a3247.png">
 
