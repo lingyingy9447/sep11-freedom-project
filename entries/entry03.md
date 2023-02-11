@@ -1,7 +1,7 @@
 # Entry 3 Tinkering with Kaboom 
 ##### 2/6/23
 ### Content 
-For the past few weeks, I have been tinkering with [Kaboom](https://kaboomjs.com/) using the documentation. I finished the [youtube tutorials](https://youtu.be/2nucjefSr6I) during the winter break as one of my goals. I started to add more levels to the Mario game that I was working on and learned more game objects, assests, components, and events. 
+For the past few weeks, I have been tinkering with [Kaboom](https://kaboomjs.com/) using the documentation. I finished the [youtube tutorials](https://youtu.be/2nucjefSr6I) during the winter break as one of my goals. I started to add more levels to the Mario game that I was working on and learned more game objects, assets, components, and events. 
 #### 1/9/23
 * Spend my time on building the third level on [replit](https://replit.com/@lingyingy9447/mario-kaboomjs#game.js) 
 #### 1/16/23
@@ -36,12 +36,14 @@ For the past few weeks, I have been tinkering with [Kaboom](https://kaboomjs.com
 * Example above will go to the scene lost and display the score in the position stated if the player did not destroy the enemy by jumping 
 
 #### What I plan on learning next about my tool 
-I personally think that I learn basically everything needed to create a platformer game for my freedom project. Therefore, my next step would be creating a mini platformer game that will use the concepts I learned from the past few months of tinkering with Kaboom. I also plan on learning about `loadSound` which can be used to incorprate game sounds into the game
+I personally think that I learn basically everything needed to create a platformer game for my freedom project. Therefore, my next step would be creating a mini platformer game that will use the concepts I learned from the past few months of tinkering with Kaboom. I also plan on learning about `loadSound` which can be used to incorporate game sounds into the game
 
 ### Engineering Design Process 
-I'm currently on **creating a prototype** of the engineering design process (EDP). Throughout this process, I tinker with Kaboom while making a platformer game with the help of the tutorial and documentation. The next stage of EDP process for me will still be creating a prototype because during the next few weeks I will still be tinkering kaboom and strengthening my understanding of it by creating my own mini platformer game. 
+I'm currently on **creating a prototype** of the **engineering design process** (EDP). Throughout this process, I tinker with Kaboom while making a platformer game with the help of the tutorial and documentation. The next stage of the EDP process for me will still be creating a prototype because during the next few weeks I will still be tinkering kaboom and strengthening my understanding of it by creating my own mini platformer game. Throughout this process further developed **skills** such  as **How to learn** and **Time management**. I have to apply LOYO aka "Learn on your own '' to this process because I need to fully get a deep understanding of the concepts I need to build my freedom project. During the past few weeks I learned Kaboom Js by using youtube tutorials and documentation. Additionally I developed in time management because I have to use my time wisely and tinker with the components that I think are useful in creating a platformer game. I also have to dedicate a good amount of time on Monday nights to learn kaboom. 
 
 
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
+
+
