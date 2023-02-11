@@ -1,7 +1,7 @@
 # Entry 3 Tinkering with Kaboom 
 ##### 2/6/23
 ### Content 
-For the past few weeks, I have been tinkering with [Kaboom](https://kaboomjs.com/) using the documentation. I finished the [youtube tutorials](https://youtu.be/2nucjefSr6I) during the winter break as one of my goals. I started to add more levels to the Mario game that I was working on and learned more game objects, assets, components, and events. 
+For the past few weeks, I have been tinkering with [Kaboom](https://kaboomjs.com/) using the documentation that was provided. I finished the [youtube tutorials](https://youtu.be/2nucjefSr6I) during the winter break as one of my goals. I started to add more levels to the Mario game that I was working on and learned more game objects, assets, components, and events. 
 #### 1/9/23
 * Spend my time on building the third level on [replit](https://replit.com/@lingyingy9447/mario-kaboomjs#game.js) 
 #### 1/16/23
