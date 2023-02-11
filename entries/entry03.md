@@ -32,7 +32,7 @@ For the past few weeks, I have been tinkering with [Kaboom](https://kaboomjs.com
 
 <img width="480" alt="Screenshot_20230208_100048" src="https://user-images.githubusercontent.com/91750525/217706929-64563210-1823-4d8f-a81c-c773ab7865e7.png">
 
-* scene () - define a scene 
+* `scene ()` - define a scene 
 * Example above will go to the scene lost and display the score in the position stated if the player did not destroy the enemy by jumping 
 
 #### What I plan on learning next about my tool 
