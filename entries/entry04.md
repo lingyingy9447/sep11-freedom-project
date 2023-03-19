@@ -46,10 +46,12 @@ Between these days we worked on our sprites using [Pixilart](https://www.pixilar
 
 ![pixil-frame-0 (7)](https://user-images.githubusercontent.com/91750525/226184185-ef00cf56-89e1-496a-805d-d5f1f61bf595.png)
 
-
+### Engineering Design Process and Skills 
+I'm currently on **creating a prototype** of the **engineering design process** (EDP). Throughout this process, I continued to tinker with kaboom using the documentation and playground. Additionally, my partner and I worked toward our MVP plan by creating sprites that we would use for our platformer game. The next step for my would still be **Create a prototype** because I would still be progressing toward my MVP while learning more functions on Kaboom. Throughout this process, I developed the **skill** sets of **communication** and **how to learn**. During the past few weeks I had to communicate with my partner to decide on our MVP and what sprites we need for the game to run. We also had to learn to use a new [website](https://www.pixilart.com/) to make our sprite
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
+
 
 
 
