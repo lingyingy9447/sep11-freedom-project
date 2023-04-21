@@ -74,7 +74,8 @@ We made two ways for the user to lose the game. The user will go the lose scene 
 
 ### Engineering Design Process and Skills 
 
-We are currently on **creating a prototype of the engineering design process (EDP)**. Throughout this process, we worked toward our MVP plan. We created a game in which the user can move and interact with the sprites. The next step for us would still be **Create a prototype** because we would continue to advance and make our game more interactive for the user. Throughout this process, I developed the skill sets of **communication and time management**. During the past few weeks I had to communicate with my partner and split up our work and make sure that we are on a good schedule. Without good communication and time management we would not be able to successfully finish our MVP plan for our project 
+We are currently on **creating a prototype of the engineering design process (EDP)**. Throughout this process, we worked toward our MVP plan. We created a game in which the user can move and interact with the sprites. The next step for us would still be **Create a prototype** because we would continue to advance and make our game more interactive for the user. Throughout this process, I developed the skill sets of **communication and time management**. During the past few weeks I had to communicate with my partner and split up our work and make sure that we are on a good schedule. Without good communication and time management we would not be able to successfully finish our MVP plan for our project.
+
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
