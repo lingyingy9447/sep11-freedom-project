@@ -41,10 +41,21 @@ First we add the main sprite to the page by giving it a position. We gave it a v
  
  ![image](https://user-images.githubusercontent.com/91750525/233737739-7353af0d-b558-4a9a-8f71-cb73a6b2c4db.png)
  
- #### Third Step: New levels and death 
+ #### Third Step: Keeping track of score and level 
+ We make a text that appear on the scene to keey track of how many coins the user collects and what level the user is on. The first set of code tells you the score of the user and placing it at a position of (0,300). The second one adds the text level + : current level the user is on (in number) at a position of 20, 300 so that the score and level will be on the same line but have space between them. 
+ 
+ ![image](https://user-images.githubusercontent.com/91750525/233741714-5060602f-d76c-404b-9598-122311021464.png)
+ 
+ The player will increase their sore if they collide with the collides. The coin will disappear and the score will increase by one. The `scoreLabel.value` which contain the current score of the user will be increase by one and set it into `scoreLabel.text` which is the text that will appear on the screen. 
+ 
+ ![image](https://user-images.githubusercontent.com/91750525/233742134-d47acef2-0963-48ce-8f57-22f9f2a10308.png)
+
+
+ #### Fourth Step: New levels and death 
  We added more levels to the game by making the game map into an array inside of an array. 
  
  ![image](https://user-images.githubusercontent.com/91750525/233738666-6b5b10c6-1ccb-466b-8451-41e3d5ee814c.png)
+
  
  Then we start to loop the level. We learn that since we used start to declare the game we can pass in the starting value of level which is zero. Then we created an event in which when the player collides with the door it will go to the next game level and take their current score with them. The event will add one to the game level value making it increase every time it collides with the door. 
  
