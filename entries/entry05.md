@@ -2,7 +2,8 @@
 ##### 4/21/23
 
 ### Context 
-The past month my partner and I worked toward finishing our MVP plan for the [project](https://chanryc9471.github.io/sep11-freedom-project-kaboom/). Before I began to explain our process, I want to inform the ones reading this blog that we changed our main sprite and enemy sprite. 
+The past month my partner and I worked toward finishing our MVP plan for the [project](https://chanryc9471.github.io/sep11-freedom-project-kaboom/). 
+Before I began to explain our process, I want to inform the ones reading this blog that we changed our main sprite and enemy sprite. 
 
 ##### Main Sprite
 ![char](https://user-images.githubusercontent.com/91750525/233732573-9f4f5e0a-d448-49b4-ae58-b5ca906f4dea.png)
