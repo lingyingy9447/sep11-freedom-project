@@ -1,7 +1,9 @@
 # Entry 6
-##### X/X/XX
+##### 6/5/23
 
-Text
+### Expo elevator pitch
+
+### In class presentation 
 
 [Previous](entry05.md) | [Next](entry07.md)
 
