@@ -1,4 +1,5 @@
-#### 6/5/23
+# Entry 6
+##### 6/5/23
 ### Expo elevator pitch
 One takeaway from the expo was that a judge suggested we make the up arrow another way for the user to jump so that the user can have more options to choose from. Another takeaway from the expo was that we need to add an instruction scene. We realized that telling other students how to play the game used more time than needed. Link to my elevator pitch
 ### In-class presentation
