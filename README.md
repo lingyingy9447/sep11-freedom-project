@@ -14,7 +14,8 @@ For my project, I am making a platformer game for which the user has to collect 
 [Presentation](https://docs.google.com/presentation/d/18cxWqP1cokwUJIaiEXNiO7qoK497ZI2w6uPl_6NhVuo/edit#slide=id.g24390b4a273_0_10135) 
 
 ## Implications 
-X
+My game fits into many different implication categories such as global, social, and economic. For example, my game has a global impact because it helps the environment by reducing the usage of paper. I made this game available online where anyone can have access so that they do not need to rely heavily on paper style games. Moreover, this can impact big systems such as the school community because it can serve as an example that pulls people into software engineering programs and makes them curious. Additionally, my game had a positive impact socially because through the game it allowed people to strengthen their relationship and become more comfortable around each other. Even though it can entertain people when they are bored, it can also be too addicting which will distract people from more important things. My game also helps to create more jobs for people majoring in computer science or software engineering because this game can be further advanced to make it more interesting. Therefore, it needs more workers to make it possible which can increase employment rates
+
 
 ---
 
@@ -28,5 +29,7 @@ X
 * [Blog Entry 8](entries/entry08.md)
 * [Blog Entry 9](entries/entry09.md)
 * [Blog Entry 10](entries/entry10.md)
+
+
 
 
