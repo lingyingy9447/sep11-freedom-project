@@ -2,18 +2,18 @@
 by Ling Ying Yang
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about applying what students had learned throughout the sep11 course and what they learn from their own tool to create anything they want that uses javascript. The purpose of this blog is to show the process of how the students made their freedom project. It shows how the students process everything in detail and the challenges they faced throughout the year. 
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a platformer game for which the user has to collect coins and escape from the enemies to go onto the next level. This blog will walk through my process of independently studying [KaboomJs](https://kaboomjs.com/) in order to make my platformer game. It will show how I used what I learned from class and what I learned from kaboom js, a javascript library, to make my game. 
 
 ## Links
 
-Product
+[Product](https://chanryc9471.github.io/sep11-freedom-project-kaboom/)
 
-Presentation
+[Presentation](https://docs.google.com/presentation/d/18cxWqP1cokwUJIaiEXNiO7qoK497ZI2w6uPl_6NhVuo/edit#slide=id.g24390b4a273_0_10135) 
 
-## Implications
+## Implications 
 X
 
 ---
@@ -28,3 +28,5 @@ X
 * [Blog Entry 8](entries/entry08.md)
 * [Blog Entry 9](entries/entry09.md)
 * [Blog Entry 10](entries/entry10.md)
+
+
