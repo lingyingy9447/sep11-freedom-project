@@ -2,10 +2,10 @@
 by Ling Ying Yang
 
 ## Context
-The "Freedom Project" for SEP11 is all about applying what students had learned throughout the sep11 course and what they learn from their own tool to create anything they want that uses javascript. The purpose of this blog is to show the process of how the students made their freedom project. It shows how the students process everything in detail and the challenges they faced throughout the year. 
+The "Freedom Project" for SEP11 is all about applying what students had learned throughout the sep11 course and what they learn from their tool to create anything they want that uses javascript. The purpose of this blog is to show the process of how the students made their freedom project. It shows how the students process everything in detail and the challenges they faced throughout the year. 
 
 ## Content
-For my project, I am making a platformer game for which the user has to collect coins and escape from the enemies to go onto the next level. This blog will walk through my process of independently studying [KaboomJs](https://kaboomjs.com/) in order to make my platformer game. It will show how I used what I learned from class and what I learned from kaboom js, a javascript library, to make my game. 
+For my project, I am making a platformer game for which the user has to collect coins and escape from the enemies to go to the next level. This blog will walk through my process of independently studying [KaboomJs](https://kaboomjs.com/) to make my platformer game. It will show how I used what I learned from class and what I learned from kaboom js, a javascript library, to make my game. 
 
 ## Links
 
@@ -14,7 +14,7 @@ For my project, I am making a platformer game for which the user has to collect 
 [Presentation](https://docs.google.com/presentation/d/18cxWqP1cokwUJIaiEXNiO7qoK497ZI2w6uPl_6NhVuo/edit#slide=id.g24390b4a273_0_10135) 
 
 ## Implications 
-My game fits into many different implication categories such as global, social, and economic. For example, my game has a global impact because it helps the environment by reducing the usage of paper. I made this game available online where anyone can have access so that they do not need to rely heavily on paper style games. Moreover, this can impact big systems such as the school community because it can serve as an example that pulls people into software engineering programs and makes them curious. Additionally, my game had a positive impact socially because through the game it allowed people to strengthen their relationship and become more comfortable around each other. Even though it can entertain people when they are bored, it can also be too addicting which will distract people from more important things. My game also helps to create more jobs for people majoring in computer science or software engineering because this game can be further advanced to make it more interesting. Therefore, it needs more workers to make it possible which can increase employment rates
+My game fits into many different implication categories such as global, social, and economic. For example, my game has a global impact because it helps the environment by reducing the usage of paper. I made this game available online where anyone can have access so that they do not need to rely heavily on paper-style games. Moreover, this can impact big systems such as the school community because it can serve as an example that pulls people into software engineering programs and makes them curious. Additionally, my game had a positive impact socially because through the game it allowed people to strengthen their relationship and become more comfortable around each other. Even though it can entertain people when they are bored, it can also be too addicting which will distract people from more important things. My game also helps to create more jobs for people majoring in computer science or software engineering because this game can be further advanced to make it more interesting. Therefore, it needs more workers to make it possible which can increase employment rates
 
 
 ---
@@ -29,7 +29,6 @@ My game fits into many different implication categories such as global, social, 
 * [Blog Entry 8](entries/entry08.md)
 * [Blog Entry 9](entries/entry09.md)
 * [Blog Entry 10](entries/entry10.md)
-
 
 
 
