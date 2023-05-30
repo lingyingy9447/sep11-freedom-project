@@ -1,4 +1,4 @@
-# Entry 4
+# Entry 4 Working toward our MVP goals
 ##### 3/13/20
 
 ### Content
